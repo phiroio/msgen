@@ -1,0 +1,12 @@
+{
+  "name": "msgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:phiroio/msgen.git",
+  "author": "xavier ramirez <xaviercobain88@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "prompt": "^1.0.0"
+  }
+}
